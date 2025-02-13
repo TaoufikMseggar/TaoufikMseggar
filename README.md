@@ -8,7 +8,7 @@
   - Cryptocurrency trading bots and financial tools
   - MacOS FinderSync extensions and file synchronization platforms
 
-- 📫 How to reach me: Feel free to connect with me via email at **taoufik.mseggar@gmail.com** or on LinkedIn. I’m open to discussing new opportunities, collaborations, and exciting ideas.
+- 📫 How to reach me: Feel free to connect with me via email at **mseggar7@gmail.com** or on LinkedIn. I’m open to discussing new opportunities, collaborations, and exciting ideas.
 
 - ⚡ Fun fact: Beyond coding, I’m a fitness enthusiast who’s passionate about maintaining a healthy lifestyle. love exploring creative problem-solving in both tech and everyday life!
 
